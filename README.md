@@ -19,7 +19,9 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 
 ## 📷 Dashboard Preview
 
-![Dashboard](bireport.png)
+<img width="1196" height="667" alt="bi report" src="https://github.com/user-attachments/assets/07fb41d9-605e-432b-8279-8b39d06d294e" />
+
+
 
 ## 📁 Files Included
 
